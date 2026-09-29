@@ -1,0 +1,6 @@
+{
+  "name": "Juice Maall | Cafe, Cakes & Party Hall",
+  "description": "Juice Maall in Gugai, Salem — cafe, cakes, refreshing drinks, desserts and party hall experiences for family and celebrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
